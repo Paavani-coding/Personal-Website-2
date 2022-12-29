@@ -1,0 +1,28 @@
+body{
+    font-family: 'Acme' !important;
+}
+
+section{
+    background-color: rgb(214, 246, 246);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h2,h1{
+    font-size: 25px;
+    font-family: 'Acme' !important;
+}
+
+h2{
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+h4{
+    font-size: 20px !important;
+    font-family: 'Acme';
+    font-weight: bolder !important;
+}
+
+img{
+    
+}
